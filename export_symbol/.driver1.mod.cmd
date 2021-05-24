@@ -1,0 +1,1 @@
+cmd_/home/venkatasrinivas/Desktop/presentation/export_symbol/driver1.mod := { echo  /home/venkatasrinivas/Desktop/presentation/export_symbol/driver1.o;  echo; } > /home/venkatasrinivas/Desktop/presentation/export_symbol/driver1.mod
